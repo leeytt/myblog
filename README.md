@@ -5,7 +5,7 @@
 
 ## 博客地址
 
-[http://leeyunt.top](http://leeyunt.top)
+[leeyunt.top](leeyunt.top)
 
 ## 博客实现功能
 - [x] 首页（文章列表）
