@@ -1,5 +1,5 @@
 # myblog
-🐵我的个人博客系统前端代码🔥
+🐵我的个人博客系统前端源码🔥
 
 > 这是我的博客前端以及后台管理系统源码，使用vue+element ui，实现响应式博客系统。博客页面参考hexo next主题，后台管理首页参考tale。
 
@@ -38,4 +38,4 @@
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2019-present, www.leeyunt.top
+Copyright (c) 2019-present, leeyunt.top
